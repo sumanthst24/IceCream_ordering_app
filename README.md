@@ -7,3 +7,7 @@ The price is calculated accordingly and also mails the order details.
 
 ![icecream0](https://user-images.githubusercontent.com/45101690/64910570-5de46b00-d735-11e9-8d9c-cb60239c849c.jpg)
 
+Output after order
+![ice cream1](https://user-images.githubusercontent.com/45101690/64911083-0812c180-d73b-11e9-92f5-eda517fac27a.jpg)
+
+
